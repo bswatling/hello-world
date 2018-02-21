@@ -1,2 +1,4 @@
 # hello-world
-Gettig started tutorial
+Getting started tutorial
+
+This is a test.
